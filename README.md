@@ -1,3 +1,3 @@
 # Anglais
 
-Projet Quentin, Patrick, Edison et Nathan 
+Projet Quentin, Patrick, Edison, Yannis et Nathan 
